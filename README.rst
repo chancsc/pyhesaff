@@ -25,10 +25,13 @@ There are wheels published on pypi using cibuildwheel. You can install via:
 
    pip install pyhesaff
            
-   
+
+Build from source
+-----------------
 TO build from scratch you will need development libraries for OpenCV and cmake
 (via scikit-build) should be able to find them.
 
+install using this command: pip install -e .
 
 
 IMPLEMENTATION
