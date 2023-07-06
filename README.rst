@@ -34,6 +34,7 @@ TO build from scratch you will need development libraries for OpenCV and cmake
 install using this command: 
 
 .. code:: bash
+
    pip install -e .
 
 
